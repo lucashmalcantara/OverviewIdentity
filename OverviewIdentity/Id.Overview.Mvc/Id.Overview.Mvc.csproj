@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <Folder Include="Databases\" />
+    <Folder Include="Documentos\" />
   </ItemGroup>
 
 </Project>
